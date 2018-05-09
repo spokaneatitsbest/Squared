@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1aca018cbfc377468a7f905766c72f4
+timeCreated: 1525315696
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UA Squared
+  fontNames:
+  - UA Squared
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
